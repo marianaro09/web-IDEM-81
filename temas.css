@@ -10,7 +10,7 @@
     width: 100%;
     height: 150px;
     background-color: cornflowerblue;
-    font-family: 'Gill Sans', 'Gill Sans MT', Times New Roman , 'Trebuchet MS', sans-serif;
+   
 }
 .menu{
     width: 100%;
@@ -27,17 +27,17 @@ background-color:blueviolet ;
     width: 20%;
     height: 4000px;
     background-color: cadetblue;
-    font-family: 'Gill Sans', 'Gill Sans MT', Times New Roman , 'Trebuchet MS', sans-serif;
+ 
 }
 .centro{
 width: 100%;
 height: 10000px;
 background-color: darkkhaki;
-font-family: 'Gill Sans', 'Gill Sans MT', Times New Roman , 'Trebuchet MS', sans-serif;
+
 }
 .derecho{
     width: 20%;
     height: 4000px;
     background-color: deeppink;
-    font-family: 'Gill Sans', 'Gill Sans MT', Times New Roman , 'Trebuchet MS', sans-serif;
+ 
 }
