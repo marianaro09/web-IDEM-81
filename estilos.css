@@ -17,12 +17,14 @@
     
     }
     
-    .fondotec{
+    fondotec{
     
-        background-image: url("fondotec.jpg");
+        background-image: url("fondo.jpg");
         
         background-repeat: no-repeat;
-    
+        
+    }
+
     .img{
     
     position: relative;
