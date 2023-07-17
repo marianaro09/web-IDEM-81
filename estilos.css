@@ -17,7 +17,11 @@
     
     }
     
+    .fondotec{
     
+        background-image: url("fondotec.jpg");
+        
+        background-repeat: no-repeat;
     
     .img{
     
